@@ -45,7 +45,7 @@ There will be at least 1 student presenting per week, depending on the number of
 
 Please read the presentation guidelines and sign up for a slot here: TBC
 
-**3. Midterm (Due Week 8)** <br>
+**3. Midterm (Due Week 7)** <br>
 The midterm project will be a website responding to one of the assignment prompts (for example, your interactive self portrait, redesign of an existing site, a piece of hypertext narrative).
 
 There will be a set of additional technical requirements students must meet for this assignment - they together with assignment prompts will be reviewed later in the semester.
