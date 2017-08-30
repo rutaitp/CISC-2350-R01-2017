@@ -8,7 +8,7 @@
 
 ## Course communication
 
-Course syllabus: TBC (will add github link) <br>
+Course syllabus: [https://github.com/rutaitp/CISC-2350-R01-2017/](https://github.com/rutaitp/CISC-2350-R01-2017/) <br>
 Course notes: TBC (will add github link) <br>
 Course Slack channel: TBC (will add link) <br>
 This is a group that we will use for class communication. <br>
