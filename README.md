@@ -137,13 +137,14 @@ Discrimination and harassment are behaviors that are incompatible with the stand
 * HTML Forms and Inputs
 * HTML Buttons
 * Intro to Developer Tools
+* Intro to Midterm Assignment
 
 **Week5, 9/25 (Monday) & 9/28 (Thursday): Introduction to CSS** <br>
 * Intro to IDs and Classes
 * CSS Selectors
 * CSS Syntax
 * Inline vs External CSS
-* Intro to Midterm Assignment
+* Midterm meetings
 
 **Week6, 10/2 (Monday) & 10/5 (Thursday): CSS Color & Fonts** <br>
 * CSS Color
@@ -153,14 +154,13 @@ Discrimination and harassment are behaviors that are incompatible with the stand
   * Hover States
 * Midterm meetings
 
-**Week 7, NO MONDAY CLASS-COLUMBUS DAY & 10/12 (Thursday): Introducing the CSS Box Model** <br>
+**Week 7, NO MONDAY CLASS-COLUMBUS DAY & 10/12 (Thursday): MIDTERM PRESENTATIONS** <br>
+
+**Week 8, 10/16 (Monday) & 10/19 (Thursday): MIDTERM PRESENTATIONS & Introducing the CSS Box Model**
 * Introducing CSS Box Model
 * Block vs Inline Elements
 * Divs and Spans in HTML
 * Boxes and layout
-* Midterm meetings
-
-**Week 8, 10/16 (Monday) & 10/19 (Thursday): MIDTERM PRESENTATIONS**
 
 **Week 9, 10/23 (Monday) & 10/26 (Thursday): CSS Layout & Grids** <br>
 * Review CSS Box Model: Block vs inline, border, margin, padding, box-sizing: border-box
