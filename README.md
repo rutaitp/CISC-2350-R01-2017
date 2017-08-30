@@ -4,7 +4,7 @@
 **Room:** JMH-342 <br>
 **Instructor:** Ruta Kruliauskaite <br>
 **Email:** rutak.fordham@gmail.com <br>
-**Office hours:** Monday after class: 6:45-7:45pm. By appointment, sign up sheet: TBC
+**Office hours:** Monday after class: 6:45-7:45pm. By appointment for 10min slots, [sign up sheet](https://calendar.google.com/calendar/selfsched?sstoken=UUFYVUZXTFJRNTlVfGRlZmF1bHR8ZTY0NjEyZjZhNzdjYmE0YTk4MDFjZGI0ZTIxMTExMWM).
 
 ## Course communication
 
