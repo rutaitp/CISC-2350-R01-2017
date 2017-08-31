@@ -43,7 +43,7 @@ Every student will have to give an individual 5-7 minute presentation on a websi
 
 There will be 2 students presenting per week.
 
-Please read the presentation guidelines and sign up for a slot here: [https://github.com/rutaitp/CISC-2350-R01-2017/wiki/Presentation-Assignment-&-Signup](https://github.com/rutaitp/CISC-2350-R01-2017/wiki/Presentation-Assignment-&-Signup)
+Please read the presentation guidelines and sign up for a slot [here](https://github.com/rutaitp/CISC-2350-R01-2017/wiki/Presentation-Assignment-&-Signup).
 
 **3. Midterm (Due Week 7)** <br>
 The midterm project will be a website responding to one of the assignment prompts (for example, your interactive self portrait, redesign of an existing site, a piece of hypertext narrative).
