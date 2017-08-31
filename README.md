@@ -58,7 +58,7 @@ Attendance is mandatory and will be taken at the beginning of each class.
 
 This class meets for 1 hour and 15 minutes twice per week. Students are expected to come on time, because there is a lot of material to cover. Students who come in later than 20 minutes after the class started will be marked absent.
 
-If you know in advance that you will not be able to attend a class, email me beforehand.
+If you know in advance that you will not be able to attend a class, email me beforehand and explain why.
 * 3 unexcused latenesses = one absence.
 * 3 unexcused absences = one half grade decrease (e.g. an A becomes an A-).
 * More than 3 unexcused absences a student will receive a failing grade.
