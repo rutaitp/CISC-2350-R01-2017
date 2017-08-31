@@ -38,12 +38,12 @@ By the end of the course, students should be able to build a fully functional we
 Each week you’ll have a homework assignment that requires mastery of the material we covered in class the week before. These will be primarily design and technical exercises, with an occasional reading assignment. <br>
 Homework assignments must be posted on GitHub **by 6pm on Wednesday** evenings for me to be able to look them over before class. **I will not accept late homework**.
 
-**2. Presentation: website design review (1-2 students per week)** <br>
-Every student will have to give an individual 5-minute presentation on a website that you feel is interesting, groundbreaking and innovative. You’ll talk about the design, concept, messaging, navigation and usability.
+**2. Presentation: website review (2 students per week)** <br>
+Every student will have to give an individual 5-7 minute presentation on a website that you feel is interesting and innovative. You will talk about the concept, structure, design, usability and technology behind it.
 
-There will be at least 1 student presenting per week, depending on the number of students in the class.
+There will be 2 students presenting per week.
 
-Please read the presentation guidelines and sign up for a slot here: TBC
+Please read the presentation guidelines and sign up for a slot here: [https://github.com/rutaitp/CISC-2350-R01-2017/wiki/Presentation-Assignment-&-Signup](https://github.com/rutaitp/CISC-2350-R01-2017/wiki/Presentation-Assignment-&-Signup)
 
 **3. Midterm (Due Week 7)** <br>
 The midterm project will be a website responding to one of the assignment prompts (for example, your interactive self portrait, redesign of an existing site, a piece of hypertext narrative).
