@@ -213,9 +213,9 @@ Discrimination and harassment are behaviors that are incompatible with the stand
 
 ### Course Tools <br>
 Our main tools in this class will be a text editor (Sublime Text) and a browser (Google Chrome).
-* Text Editors: Sublime Text
-* Browser: Chrome
-* GitHub
+* Text Editors: [Sublime Text](https://www.sublimetext.com/)
+* Browser: [Chrome](https://www.google.com/chrome/browser/desktop/index.html)
+* [GitHub](https://github.com/)
 * Adobe Photoshop or Illustrator for creating assets
 * Notebook and pen for sketching and note-taking
 
