@@ -10,7 +10,7 @@
 
 Course syllabus: [https://github.com/rutaitp/CISC-2350-R01-2017/](https://github.com/rutaitp/CISC-2350-R01-2017/) <br>
 Course notes: [https://github.com/rutaitp/CISC-2350-R01-2017/wiki](https://github.com/rutaitp/CISC-2350-R01-2017/wiki) <br>
-Course Slack channel: [cisc-2350-r01.slack.com](cisc-2350-r01.slack.com) <br>
+Course Slack channel: [cisc-2350-r01.slack.com](https://cisc-2350-r01.slack.com/) <br>
 To join Slack channel follow [this](https://cisc-2350-r01.slack.com/join/shared_invite/MjM0MTczNjY4MDk4LTE1MDQxMzM3NTItOTRjYWZiNjAxNQ) link. If you have trouble joining, send me an email and I’ll send you an invite. <br>
 This is a group that we will use for class communication. <br>
 The purpose of this group is for course-related announcements, discussion and questions. This is a great place to ask questions about what you're working on or things you're struggling with technically. You may of course email me individually, but most likely someone else in the class has the same question so it's a great way to learn from each other.
