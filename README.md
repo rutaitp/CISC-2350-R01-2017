@@ -35,7 +35,7 @@ By the end of the course, students should be able to build a fully functional we
 ### Course deliverables
 
 **1. Weekly homework** <br>
-Each week you’ll have a homework assignment that requires mastery of the material we covered in class the week before. These will be primarily design and technical exercises, with an occasional reading assignment. <br>
+Each week you’ll have a homework assignment that requires mastery of the material we covered in class the week before. These will be primarily design and technical exercises, with an occasional reading or watch video assignment. <br>
 Homework assignments must be posted on GitHub **by 6pm on Wednesday** evenings for me to be able to look them over before class. **I will not accept late homework**.
 
 **2. Presentation: website review (2 students per week)** <br>
