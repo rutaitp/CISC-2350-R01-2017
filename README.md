@@ -114,7 +114,7 @@ Discrimination and harassment are behaviors that are incompatible with the stand
 * Overview of different languages
 * Intro to Sublime
 
-Week 1 slides and homework [are here](https://github.com/rutaitp/CISC-2350-R01-2017/wiki/Week1:-Intro-to-the-Web).
+[Week 1 slides and homework are here](https://github.com/rutaitp/CISC-2350-R01-2017/wiki/Week1:-Intro-to-the-Web).
 
 **Week2, 9/6 (Wednesday) & 9/7 (Thursday) / Wednesday follows Labor Day Monday’s schedule: Intro to HTML: structure, tags & images** <br>
 * Review Sublime
