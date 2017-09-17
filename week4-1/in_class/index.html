@@ -1,0 +1,134 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Tables</title>
+	</head>
+	<body>
+		<!-- basic table structure -->
+		<table>
+			<tr>
+				<td>1</td>
+				<td>2</td>
+				<td>10</td>
+			</tr>
+			<tr>
+				<td>3</td>
+				<td>4</td>
+				<td>11</td>
+			</tr>
+			<tr>
+				<td>5</td>
+				<td>6</td>
+				<td>12</td>
+			</tr>
+		</table>
+
+		<!-- table with headings -->
+		<table>
+			<tr>
+				<th scope="col">Day of a week</th>
+				<th scope="col">Sports activity</th>
+				<th scope="col">Km</th>
+			</tr>
+			<tr>
+				<th scope="row">Monday</th>
+				<td>Run</td>
+				<td>5</td>
+			</tr>
+			<tr>
+				<th scope="row">Tuesday</th>
+				<td>Run</td>
+				<td>10</td>
+			</tr>
+			<tr>
+				<th scope="row">Wednesday</th>
+				<td>Run</td>
+				<td>3</td>
+			</tr>
+		</table>
+
+		<!-- spanning columns -->
+		<table>
+			<tr>
+				<th></th>
+				<th>Morning</th>
+				<th>Lunch</th>
+				<th>Afternoon</th>
+				<th>Evening</th>
+			</tr>
+			<tr>
+				<th scope="row">Monday</th>
+				<td>Run</td>
+				<td>Meeting</td>
+				<td>Work</td>
+				<td>Meeting friends</td>
+			</tr>
+			<tr>
+				<th scope="row">Tuesday</th>
+				<td colspan="2">Workout and breakfast</td>
+				<td>Work</td>
+				<td>Relax</td>
+			</tr>
+			<tr>
+				<th scope="row">Wednesday</th>
+				<td colspan="4">Day off</td>
+			</tr>
+		</table>
+
+		<!-- spanning rows -->
+		<table>
+			<tr>
+				<th></th>
+				<th>Morning</th>
+				<th>Lunch</th>
+				<th>Afternoon</th>
+				<th>Evening</th>
+			</tr>
+			<tr>
+				<th scope="row">Monday</th>
+				<td rowspan="3">Run</td>
+				<td>Work</td>
+				<td>Work</td>
+				<td>Drinks</td>
+			</tr>
+			<tr>
+				<th scope="row">Tuesday</th>
+				<td>Work</td>
+				<td rowspan="2">Relax</td>
+				<td>Dinner</td>
+			</tr>
+			<tr>
+				<th scope="row">Wednesday</th>
+				<td>Time off</td>
+				<td>Read</td>
+			</tr>
+		</table>
+
+		<!-- long tables -->
+		<table>
+			<!-- headings -->
+			<thead>
+				<tr>
+					<th></th>
+					<th></th>
+				</tr>
+			</thead>
+
+			<!-- body -->
+			<tbody>
+				<tr>
+					<td></td>
+					<td></td>
+				</tr>
+			</tbody>
+
+			<!-- footer -->
+			<tfoot>
+				<tr>
+					<td></td>
+					<td></td>
+				</tr>
+			</tfoot>
+		</table>
+	</body>
+</html>
