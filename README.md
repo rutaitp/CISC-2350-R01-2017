@@ -148,7 +148,7 @@ Discrimination and harassment are behaviors that are incompatible with the stand
 * Inline vs External CSS
 * Midterm meetings
 
-**Week6, 10/2 (Monday) & 10/5 (Thursday): CSS Color & Fonts** <br>
+**Week6, 10/2 (Monday) RESCHEDULED TO 10/5 & 10/5 (Thursday): CSS Color & Fonts** <br>
 * CSS Color
 * CSS Fonts:
   * Text Properties
