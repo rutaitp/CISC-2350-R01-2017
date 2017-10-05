@@ -50,6 +50,8 @@ The midterm project will be a website responding to one of the assignment prompt
 
 There will be a set of additional technical requirements students must meet for this assignment - they together with assignment prompts will be reviewed later in the semester.
 
+Midterm grading rubric can be found [here](https://github.com/rutaitp/CISC-2350-R01-2017/blob/master/week6/grading_rubric.pdf).
+
 **4. Final project (Due Week 15)** <br>
 The final project will be a full-scale website design and implementation that can either be a development of a midterm or a completely new website (e.g. portfolio site for yourself). Unlike the midterm, which is a shorter assignment, students will be required to go through a full design process of sketching, wireframing, designing and then building out this site. Exact requirements students must meet for this assignment will be reviewed later in the semester.
 
