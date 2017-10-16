@@ -1,0 +1,24 @@
+<!-- Code from Rebecca Lieberman:
+https://github.com/rlieberman/CG214-2017/tree/master/Week07-BoxModel/example-1-blockinline -->
+
+<!doctype html>
+
+<html>
+<head>
+	<link rel="stylesheet" href="style/style.css">
+</head>
+
+<body>
+
+		<div id="container">
+			<div class="div1">
+				<h1>This is an h1 element. Since it's a block-level element, it takes up all the space from left to right - see the red border.</h1>
+				<br/><br/>
+				<p>This is a paragraph element. It's also a block-level element, so takes up all the space from left to right as well (see blue border).</p>
+				<br/><br/>
+				<div class="child">This is a div inside a div. Div is a block-level element and it will also stretch to take up the width of its parent element if no width is specified. See orange border.</div>
+				<br/><br/>
+					<div>Unlike divs, <span>span elements</span> are inline elements. This means they take up only as much width as necessary. You can see this by the green outline around it. This makes span elements great for styling text within other block elements such as paragraphs. I want to write a paragraph with <span class="pinktext">pink text</span>, <span class="purpletext">purple text</span>, and <span class="bluetext">blue text.</span></div>
+			</div>
+</body>
+</html>

@@ -1,0 +1,33 @@
+<!-- Code from Rebecca Lieberman:
+https://github.com/rlieberman/CG214-2017/tree/master/Week07-BoxModel/example-2-basicboxmodel -->
+
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Basic Box Model Demo</title>
+
+		<style type="text/css">
+			*, *:before, *:after {
+				/*changes how our box model works by including padding and border within the width*/
+			  box-sizing: border-box;
+			}
+			body {
+				font-family: sans-serif;
+			}
+			p {
+				background-color: #f4f4f4;
+			 	width: 900px;
+			 	border: 7px solid #66CDAA;
+			 	padding: 20px;
+			 	margin: 20px;
+			}
+		</style>
+	</head>
+
+	<body>
+		<p>
+			This text is the actual content of the box. We have added a 20px padding, 20px margin and a 7px green border. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+		</p>
+
+	</body>
+</html>
