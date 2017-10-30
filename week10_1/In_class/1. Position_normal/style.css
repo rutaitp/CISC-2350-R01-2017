@@ -21,22 +21,4 @@ div {
     padding: 20px;
     margin-top: 10px;
     background: #00CED1;
-    height: 500px;
-}
-
-h1 {
-  position: absolute;
-  left: 750px;
-  top: -10px;
-}
-
-
-.absolute {
-    position: absolute;
-    background: yellow;
-    color: black;
-    height: 200px;
-    width: 500px;
-    left: 50px;
-    top: 50px;
 }
