@@ -160,13 +160,13 @@ Discrimination and harassment are behaviors that are incompatible with the stand
 
 **Week 7, NO MONDAY CLASS-COLUMBUS DAY & 10/12 (Thursday): MIDTERM PRESENTATIONS** <br>
 
-**Week 8, 10/16 (Monday) & 10/19 (Thursday): MIDTERM PRESENTATIONS & Introducing the CSS Box Model**
+**Week 8, 10/16 (Monday) NO CLASS & 10/19 (Thursday): Introducing the CSS Box Model**
 * Introducing CSS Box Model
 * Block vs Inline Elements
 * Divs and Spans in HTML
 * Boxes and layout
 
-**Week 9, 10/23 (Monday) & 10/26 (Thursday): CSS Layout & Grids** <br>
+**Week 9, 10/23 (Monday): & 10/26 (Thursday - CLASS WILL BE RESCHEDULED): CSS Layout & Grids** <br>
 * Review CSS Box Model: Block vs inline, border, margin, padding, box-sizing: border-box
 * Intro to positioning: position property, z-index, float
 * Advanced Positioning
