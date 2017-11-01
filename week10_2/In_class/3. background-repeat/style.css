@@ -1,0 +1,11 @@
+div {
+	background-image: url("images/leaf.jpg");
+	height: 1000px;
+	width: 1000px;
+	font-family: "Proxima Nova", sans-serif;
+	color: white;
+	background-repeat: repeat; /*repeats both horizontally and vertically*/
+	/*background-repeat: repeat-x;*/ /*repeats only horizontally*/
+	/*background-repeat: repeat-y;*/ /*repeats only vertically*/
+	/*background-repeat: no-repeat;*/ /*is shown only once*/
+}

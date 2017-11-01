@@ -1,0 +1,7 @@
+div {
+	background-image: url("images/leaf.jpg");
+	height: 300px;
+	width: 1000px;
+	font-family: "Proxima Nova", sans-serif;
+	color: white;
+}

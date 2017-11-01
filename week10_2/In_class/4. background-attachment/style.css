@@ -1,0 +1,10 @@
+div {
+	background-image: url("images/leaf.jpg");
+	height: 1000px;
+	width: 1000px;
+	font-family: "Proxima Nova", sans-serif;
+	color: white;
+	background-repeat: repeat-x; /*repeats only horizontally*/
+	background-attachment: fixed; /*image stays in the same position on the page*/
+	/*background-attachment: scroll;*/ /*image moves up and down as the user scrolls*/
+}
