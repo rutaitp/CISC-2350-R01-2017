@@ -1,0 +1,15 @@
+div {
+	background-image: url("images/leaf.jpg");
+	height: 300px;
+	width: 300px;
+	font-family: "Proxima Nova", sans-serif;
+	color: white;
+	opacity: 1.0;
+	-webkit-transition: opacity 0.5s ease-in-out; /* For Safari 3.1 to 6.0 */
+	-moz-transition: opacity 0.5s ease-in-out;
+   	transition: opacity 0.5s ease-in-out;
+ }
+
+div:hover {
+	opacity: 0.1;
+}

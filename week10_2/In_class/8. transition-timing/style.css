@@ -1,0 +1,16 @@
+div {
+	background-image: url("images/leaf.jpg");
+	height: 300px;
+	width: 300px;
+	font-family: "Proxima Nova", sans-serif;
+	color: white;
+	-webkit-transition: width 2s, height 4s; /* For Safari 3.1 to 6.0 */
+	-moz-transition: width 2s, height 4s;
+   	transition: width 2s, height: 4s;
+ 	transition-timing-function: ease-in;
+}
+
+div:hover {
+	width: 500px;
+	height: 500px;
+}
