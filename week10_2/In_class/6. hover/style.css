@@ -1,0 +1,26 @@
+div {
+	background-image: url("images/leaf.jpg");
+	height: 1000px;
+	width: 1000px;
+	font-family: "Proxima Nova", sans-serif;
+	color: white;
+	background-repeat: repeat; /*repeats both horizontally and vertically*/
+}
+
+a {
+	font-family: "Proxima Nova", sans-serif;
+	color: white;
+}
+
+a:hover {
+	color: gold;
+	text-decoration: none;
+}
+
+a:visited {
+	color: blue;
+}
+
+a:active { /*while we're pressing*/
+	color: green;
+}
