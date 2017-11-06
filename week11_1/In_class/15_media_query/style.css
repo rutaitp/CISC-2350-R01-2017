@@ -1,0 +1,15 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: lightpink;
+	font-family: "Proxima Nova", sans-serif;
+	color: white;
+}
+
+@media only screen and (max-width: 400px) {
+	body {
+		background-color: lightblue;
+	}
+}

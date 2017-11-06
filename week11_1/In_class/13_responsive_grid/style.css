@@ -1,0 +1,19 @@
+* {
+	box-sizing: border-box;
+}
+
+.header {
+	border: 2px solid grey;
+}
+
+.menu {
+	width: 25%;
+	float: left;
+	border: 2px solid grey;
+}
+
+.main {
+	width: 75%;
+	float: left;
+	border: 2px solid grey;
+}
