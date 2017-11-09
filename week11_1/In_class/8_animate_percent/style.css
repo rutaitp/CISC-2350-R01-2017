@@ -50,7 +50,7 @@ div {
 	border-radius: 10%;
 	animation-name: pic;
 	animation-duration: 5s;
-	/*animation-delay: 2s;*/
+	animation-delay: 2s;
 	animation-iteration-count: infinite;
 	animation-timing-function: ease;
 }
