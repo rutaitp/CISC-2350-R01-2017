@@ -11,3 +11,7 @@ body {
 	width: 200px;
 	background-color: lightblue;
 }
+
+button {
+	margin-top: 1%;
+}
