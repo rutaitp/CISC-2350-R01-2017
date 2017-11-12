@@ -5,15 +5,11 @@
 body {
 	background-color: lightpink;
 	font-family: "Proxima Nova", sans-serif;
-	color: grey;
-}
-
-[class*="col-"] {
-    background-color: lightblue;
-	border: 2px solid white;
 	color: white;
 }
 
-.try {
-	clear: left;
+#container {
+	width: 500px;
+	margin: 0px auto;
+	background-color: lightblue;
 }

@@ -1,0 +1,17 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: lightpink;
+}
+
+#hello {
+	height: 200px;
+	width: 200px;
+	background-color: lightblue;
+}
+
+button {
+	margin-top: 1%;
+}
