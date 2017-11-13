@@ -1,0 +1,35 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: lightpink;
+	font-family: "Proxima Nova", sans-serif;
+	color: white;
+}
+
+#formContainer {
+	height: 200px;
+	width: 400px;
+	background-color: lightblue;
+	margin: 0px auto;
+	text-align: center;
+}
+
+input {
+	margin-top: 2%;
+	}
+}
+
+button {
+	margin-top: 2%;
+}
+
+#textContainer {
+	height: 200px;
+	width: 400px;
+	margin: 0px auto;
+	margin-top: 1%;
+	background-color: lightgreen;
+	text-align: center;
+}

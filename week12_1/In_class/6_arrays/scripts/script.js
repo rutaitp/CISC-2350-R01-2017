@@ -30,4 +30,12 @@ $(document).ready(function() {
 	movies[2] = newThirdMovie;
 	console.log(movies);
 
+	//add new value to the array
+	movies.push("The Shining");
+	console.log(movies);
+
+	//remove the value from the array
+	movies.splice(1,1); //will remove "Get Out" movie
+	console.log(movies);
+
 });
