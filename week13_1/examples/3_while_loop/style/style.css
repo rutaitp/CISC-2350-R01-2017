@@ -1,0 +1,26 @@
+* {
+	box-sizing: border-box;
+	font-family: "Proxima Nova", sans-serif;
+}
+
+body {
+	background-color: lightblue;
+}
+
+div {
+	width: 500px;
+	height: 500px;
+	margin: 0px auto;
+	background-color: lightpink;
+	overflow: scroll;
+}
+
+input {
+	width: 250px;
+	margin-left: 20%;
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
