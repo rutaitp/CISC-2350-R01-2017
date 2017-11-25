@@ -16,7 +16,7 @@ function myFunction(event) {
 		} else {
 			textToShow = "Sorry, you're not in the class!";
 			document.getElementById("name").innerHTML = textToShow;
-		}gi
+		}
 
 	}
 	

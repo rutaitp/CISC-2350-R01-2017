@@ -1,0 +1,25 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+    color:black;
+    background-color:lightblue;
+    font-family: "Proxima Nova", sans-serif;
+}
+
+h1, h2, h3{
+    color:darkslategray;
+    font-family: "Proxima Nova", serif;
+}
+
+pre{
+    background-color: white;
+}
+
+
+#container {
+    width:80%;
+    margin: 0px auto;
+    text-align: center;
+}
